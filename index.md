@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## போகரின் சப்த காண்டம் - 7000
 
 You can use the [editor on GitHub](https://github.com/saraindia/saraindia.gihub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ஆனயதமாய் நிறையத ஆதிபாதம் அண்டபரி பூரணமாம் ஐயர் பாதம்
+வானயதமாகி நின்ற கணேசன் பாதம் மருவியதோர் மூலத்தின் நயதி பாதம் 
+தானயதமாகியதோர் காளாங்கி பாதம் கனவருடவியாக்கிரமர் பதஞ்சலியின் பாதம் 
+போனயதமாகியதோர் ரிஷிகள் பாதம் போற்றி ஏழாயிரம் நூல் பகலுவேனே
 
 ### Markdown
 
